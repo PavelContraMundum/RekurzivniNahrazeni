@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CSharp\\RekurzivniNahrazeni\\RekurzivniNahrazeni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEC317F-7470-4A2B-A2F1-28C22D377E18}|RekurzivniNahrazeni.csproj|d:\\programming\\csharp\\rekurzivninahrazeni\\rekurzivninahrazeni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEC317F-7470-4A2B-A2F1-28C22D377E18}|RekurzivniNahrazeni.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\RekurzivniNahrazeni\\RekurzivniNahrazeni\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\RekurzivniNahrazeni\\RekurzivniNahrazeni\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:12:41.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\bin\Debug\net8.0\RekurzivniNahrazeni.exe
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\bin\Debug\net8.0\RekurzivniNahrazeni.deps.json
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\bin\Debug\net8.0\RekurzivniNahrazeni.runtimeconfig.json
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\bin\Debug\net8.0\RekurzivniNahrazeni.dll
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\bin\Debug\net8.0\RekurzivniNahrazeni.pdb
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.AssemblyInfoInputs.cache
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.AssemblyInfo.cs
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.dll
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\refint\RekurzivniNahrazeni.dll
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.pdb
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\RekurzivniNahrazeni.genruntimeconfig.cache
+D:\Programming\CSharp\RekurzivniNahrazeni\RekurzivniNahrazeni\obj\Debug\net8.0\ref\RekurzivniNahrazeni.dll
